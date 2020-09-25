@@ -16,12 +16,12 @@
       {
         "lang": "fr",
         "name": "Français",
-        "path": "cyberpunk_fr\fr.json"
+        "path": "cyberpunk_fr/fr.json"
       },
       
     ],
     
-    "url": "",
+    "url": "https://github.com/Meguido30/CyberpunkFR",
 	  "manifest": "https://github.com/Meguido30/CyberpunkFR/blob/master/cyberpunk_fr/module.json",
 	  "download": ""
   }
