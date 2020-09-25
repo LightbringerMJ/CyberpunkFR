@@ -22,7 +22,7 @@
     ],
     
     "url": "https://github.com/Meguido30/CyberpunkFR",
-	  "manifest": "https://github.com/Meguido30/CyberpunkFR/master/cyberpunk_fr/module.json",
-	  "download": ""
+	  "manifest": "https://github.com/Meguido30/CyberpunkFR/tree/master/cyberpunk_fr/module.json",
+	  "download": "https://github.com/Meguido30/CyberpunkFR/archive/master.zip"
   }
   
