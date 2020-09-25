@@ -1,0 +1,28 @@
+{
+    "name": "cyberpunk_fr",
+    "title": "FR - Cyberpunk RED",
+    "description": "<p>Traduction du system cyberpunk red [Atropos]. L'installation du module Babele est nécessaire pour les compendiums [texte du SRD : site aidedd.org]</p><p> *** Rejoignez la communauté Discord FR :<a href='https://discord.gg/pPSDNJk'> https://discord.gg/pPSDNJk </a></p>",
+    "version": "0.36",
+    "minimumCoreVersion" : "0.6.6",
+    "compatibleCoreVersion": "0.6.8",
+    "author": "meguido",
+      
+        
+    "scripts": [],
+    "styles": [],
+    "packs": [],
+    
+    "languages": [
+      {
+        "lang": "fr",
+        "name": "Français",
+        "path": "cyberpunk_fr\fr.json"
+      },
+      
+    ],
+    
+    "url": "",
+	  "manifest": "",
+	  "download": ""
+  }
+  
